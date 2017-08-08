@@ -9,7 +9,7 @@ body {
 width: 90%;
 margin: 0 auto;}
 
-body {list-style-image: url(“https://free.clipartof.com/76-Free-Cute-Cartoon-Monkey-Clipart-Illustration.png”);}			
+body {background-image: url(http://bestanimations.com/Nature/Flora/Trees/forest-trees-animated-gif-15.gif);}			
 #content {
 overflow: auto;}
 			
@@ -29,16 +29,19 @@ display: inline;
 padding: 0.5em;}
 			
 #nav, #footer {
-background-color: #FF4500;
+background-color: #2AC10B;
 padding: 0.5em 0;}
 			
 #feature, .article {
+  color: white;
 height: 10em;
 margin-bottom: 1em;
-background-color: #FF4500;}
+background-color: #4d4d00;}
 	
-#feature {list-style-image: url(“https://free.clipartof.com/76-Free-Cute-Cartoon-Monkey-Clipart-Illustration.png”);}
+#feature {background-image: url(https://media.giphy.com/media/eQi8dJT7mAZyM/giphy.gif);}
 h1 {font-family: 'FuturaRennerRegular';
    font-weight: normal;
-   font-style: normal;}	
+   font-style: normal;
+text-align: center;
+color:white}	
 </style>
